@@ -1,2 +1,2 @@
 # pythonExamples
-Some Old python Machine Learning Scripts
+Some old python Machine Learning Scripts from class
